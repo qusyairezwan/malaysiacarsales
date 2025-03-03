@@ -1,5 +1,9 @@
 # Malaysia Car Sales Dashboard
 
+<p align="center">
+  <img src="images/dashboard.png" width="600">
+</p>
+
 A Laravel-based dashboard for visualizing Malaysia's car sales data using a CSV dataset from the Department of Statistics Malaysia (DOSM).
 
 ## Features

@@ -30,3 +30,10 @@ Ensure you have the following installed:
 git clone https://github.com/<your-repo>/malaysia-car-sales.git
 cd malaysia-car-sales
 ```
+
+### 2️⃣ Install Dependencies
+
+```sh
+composer install
+npm install
+```

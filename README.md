@@ -38,23 +38,29 @@ composer install
 npm install
 ```
 
-### 2️⃣ Install Dependencies
+### 3️⃣ Set Up Environment Variables
 
 ```sh
-composer install
-npm install
+cp .env.example .env
+php artisan key:generate
 ```
 
-### 2️⃣ Install Dependencies
+### 4️⃣ Start Laravel Development Server
 
 ```sh
-composer install
-npm install
+php artisan serve
 ```
 
-### 2️⃣ Install Dependencies
+Access the dashboard at: http://127.0.0.1:8000
 
-```sh
-composer install
-npm install
-```
+## License
+
+This project is licensed under the MIT License.
+
+## Credits
+
+Developed by Qusyaire Ezwan. Data sourced from DOSM (Department of Statistics Malaysia).
+
+## Contributions
+
+Feel free to contribute! Submit pull requests or open issues on GitHub.

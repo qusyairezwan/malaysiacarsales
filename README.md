@@ -37,3 +37,24 @@ cd malaysia-car-sales
 composer install
 npm install
 ```
+
+### 2️⃣ Install Dependencies
+
+```sh
+composer install
+npm install
+```
+
+### 2️⃣ Install Dependencies
+
+```sh
+composer install
+npm install
+```
+
+### 2️⃣ Install Dependencies
+
+```sh
+composer install
+npm install
+```

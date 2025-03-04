@@ -30,9 +30,8 @@ Ensure you have the following installed:
 ### 1️⃣ Clone the Repository
 
 ```sh
-# Replace <your-repo> with your GitHub username/repo
-git clone https://github.com/<your-repo>/malaysia-car-sales.git
-cd malaysia-car-sales
+git clone https://github.com/qusyairezwan/malaysiacarsales.git
+cd malaysiacarsales
 ```
 
 ### 2️⃣ Install Dependencies
